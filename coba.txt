@@ -1,1 +1,2 @@
 Aku sedang belajar git.
+edit pertama
